@@ -1,3 +1,3 @@
-# StarWars-PromoPage.github.io
+# damitrok.github.io
 
 Верстка промо-страницы Звезных Войн для тренировки.
