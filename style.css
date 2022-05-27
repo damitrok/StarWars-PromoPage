@@ -14,7 +14,7 @@
 
 
 body{
-    background: #070506 url(/img/main-bg.png)  top right 90% no-repeat;
+    background: #070506 url(img/main-bg.png)  top right 90% no-repeat;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
 }
@@ -105,7 +105,7 @@ body{
     content: "";
     width: 65px;
     height: 65px;
-    background: url(/img/Polygon\ 1.png ) center no-repeat;
+    background: url(img/Polygon\ 1.png ) center no-repeat;
     background-color: #fff;
     display: block;
     right: 0;
@@ -155,7 +155,7 @@ body{
     background-color:  rgba(80, 80, 80, 0.86);
     box-shadow: 0px 10px 26px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    cursor: url(/img/cursor.png),pointer ;
+    cursor: url(img/cursor.png),pointer ;
 }
 
 .slider_item:hover{
@@ -177,18 +177,18 @@ body{
     display: inline-block;
     height: 12px;
     width: 12px;
-    background: url(/img/star.svg) no-repeat center;
+    background: url(img/star.svg) no-repeat center;
 }
 
 .star-o{
-    background: url(/img/star-o.svg) no-repeat center;
+    background: url(img/star-o.svg) no-repeat center;
 }
 
 .slider__nav--left{
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url(/img/left.svg) no-repeat center;
+    background: transparent url(img/left.svg) no-repeat center;
     margin-right: 15px;
     margin-left: 13px;
     outline: none;
@@ -198,7 +198,7 @@ body{
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url(/img/right.svg) no-repeat center;
+    background: transparent url(img/right.svg) no-repeat center;
     outline: none;
     cursor: pointer;
 }
@@ -258,7 +258,7 @@ body{
         margin: auto;
     }
     body{
-        background: #070506 url(/img/main-bg.png)    top right 90% no-repeat;
+        background: #070506 url(img/main-bg.png)    top right 90% no-repeat;
         background-size: cover;
     }
 }
